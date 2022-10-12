@@ -1,0 +1,34 @@
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Frm_Add_New_Student.resources
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_Login.resources
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Properties.Resources.resources
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_View_Student_List.resources
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csproj.GenerateResource.Cache
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.exe
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csprojResolveAssemblyReference.cache
+D:\C sharp program\New Assignment\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe.config
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe.config
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.exe
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csprojResolveAssemblyReference.cache
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Frm_Add_New_Student.resources
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_Login.resources
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Properties.Resources.resources
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_View_Student_List.resources
+D:\C sharp program\Assignment_01\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csproj.GenerateResource.Cache
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe.config
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.exe
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.exe
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\bin\Debug\SGM_App_Mangement.pdb
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csprojResolveAssemblyReference.cache
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Frm_Add_New_Student.resources
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_Login.resources
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_Search_Student_List.resources
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.Properties.Resources.resources
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.frm_View_Student_List.resources
+D:\C sharp program\Assignment_02\SGM_App_Mangement\SGM_App_Mangement\obj\x86\Debug\SGM_App_Mangement.csproj.GenerateResource.Cache
